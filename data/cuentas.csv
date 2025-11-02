@@ -1,0 +1,11 @@
+id_cuenta,id_cliente,tipo_cuenta,estado_cuenta,saldo
+CTA001,C001,Corriente,Activa,15000
+CTA002,C002,Ahorros,Activa,8500
+CTA003,C003,Corriente,Activa,12000
+CTA004,C004,Ahorros,Activa,9500
+CTA005,C005,Corriente,Activa,18000
+CTA006,C006,Sueldo,Activa,6000
+CTA007,C007,Corriente,Activa,22000
+CTA008,C008,Ahorros,Activa,4500  
+CTA009,C009,Corriente,Activa,30000
+CTA010,C010,Sueldo,Activa,7800

@@ -1,0 +1,30 @@
+# --- Carpetas de Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Entornos virtuales ---
+.venv/
+venv/
+env/
+
+# --- Carpetas de datos innecesarias ---
+data/data_merge/
+data/data_read/
+data/data_transform/
+
+# --- Archivos y carpetas de salida ---
+output/
+*.log
+*.tmp
+*.bak
+
+# --- Archivos temporales del sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Configuración de IDE ---
+.vscode/
+.idea/
+*.swp

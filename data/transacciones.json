@@ -1,0 +1,281 @@
+[
+  {
+    "id_transaccion": "T001",
+    "id_cliente": "C001",
+    "id_cuenta": "CTA001",
+    "fecha": "2025-01-05",
+    "tipo_transaccion": "Depósito",
+    "monto": 1000,
+    "canal": "Ventanilla"
+  },
+  {
+    "id_transaccion": "T001",
+    "id_cliente": "C001",
+    "id_cuenta": "CTA001",
+    "fecha": "2025-01-05",
+    "tipo_transaccion": "Depósito",
+    "monto": 1000,
+    "canal": "Ventanilla"
+  },
+  {
+    "id_transaccion": "T002",
+    "id_cliente": "C006",
+    "id_cuenta": "CTA006",
+    "fecha": "2025-01-05",
+    "tipo_transaccion": "Retiro",
+    "monto": 2500,
+    "canal": "Cajero"
+  },
+  {
+    "id_transaccion": "T003",
+    "id_cliente": "C003",
+    "id_cuenta": "CTA003",
+    "fecha": "2025-01-06",
+    "tipo_transaccion": "Transferencia",
+    "monto": 7500,
+    "canal": "App Móvil"
+  },
+  {
+    "id_transaccion": "T004",
+    "id_cliente": "C001",
+    "id_cuenta": "CTA001",
+    "fecha": "2025-01-06",
+    "tipo_transaccion": "Depósito",
+    "monto": 3000,
+    "canal": "Cajero"
+  },
+  {
+    "id_transaccion": "T005",
+    "id_cliente": "C004",
+    "id_cuenta": "CTA004",
+    "fecha": "2025-01-07",
+    "tipo_transaccion": "Retiro",
+    "monto": 1500,
+    "canal": "Ventanilla"
+  },
+  {
+    "id_transaccion": "T006",
+    "id_cliente": "C005",
+    "id_cuenta": "CTA005",
+    "fecha": "2025-01-07",
+    "tipo_transaccion": "Transferencia",
+    "monto": 9000,
+    "canal": "Cajero"
+  },
+  {
+    "id_transaccion": "T007",
+    "id_cliente": "C002",
+    "id_cuenta": "CTA002",
+    "fecha": "2025-01-08",
+    "tipo_transaccion": "Depósito",
+    "monto": 4500,
+    "canal": "App Móvil"
+  },
+  {
+    "id_transaccion": "T008",
+    "id_cliente": "C003",
+    "id_cuenta": "CTA003",
+    "fecha": "2025-01-08",
+    "tipo_transaccion": "Retiro",
+    "monto": 2000,
+    "canal": "Web"
+  },
+  {
+    "id_transaccion": "T009",
+    "id_cliente": "C001",
+    "id_cuenta": "CTA001",
+    "fecha": "2025-01-09",
+    "tipo_transaccion": "Transferencia",
+    "monto": 6000,
+    "canal": "Ventanilla"
+  },
+  {
+    "id_transaccion": "T010",
+    "id_cliente": "C004",
+    "id_cuenta": "CTA004",
+    "fecha": "2025-01-09",
+    "tipo_transaccion": "Depósito",
+    "monto": 8500,
+    "canal": "Cajero"
+  },
+  {
+    "id_transaccion": "T011",
+    "id_cliente": "C005",
+    "id_cuenta": "CTA005",
+    "fecha": "2025-01-10",
+    "tipo_transaccion": "Retiro",
+    "monto": 3500,
+    "canal": "App Móvil"
+  },
+  {
+    "id_transaccion": "T012",
+    "id_cliente": "C002",
+    "id_cuenta": "CTA002",
+    "fecha": "2025-01-10",
+    "tipo_transaccion": "Transferencia",
+    "monto": 5500,
+    "canal": "Web"
+  },
+  {
+    "id_transaccion": "T013",
+    "id_cliente": "C003",
+    "id_cuenta": "CTA003",
+    "fecha": "2025-01-11",
+    "tipo_transaccion": "Depósito",
+    "monto": 7000,
+    "canal": "Ventanilla"
+  },
+  {
+    "id_transaccion": "T014",
+    "id_cliente": "C001",
+    "id_cuenta": "CTA001",
+    "fecha": "2025-01-11",
+    "tipo_transaccion": "Retiro",
+    "monto": 2200,
+    "canal": "Cajero"
+  },
+  {
+    "id_transaccion": "T015",
+    "id_cliente": "C004",
+    "id_cuenta": "CTA004",
+    "fecha": "2025-01-12",
+    "tipo_transaccion": "Transferencia",
+    "monto": 4800,
+    "canal": "App Móvil"
+  },
+  {
+    "id_transaccion": "T016",
+    "id_cliente": "C005",
+    "id_cuenta": "CTA005",
+    "fecha": "2025-01-12",
+    "tipo_transaccion": "Depósito",
+    "monto": 6500,
+    "canal": "Web"
+  },
+  {
+    "id_transaccion": "T017",
+    "id_cliente": "C002",
+    "id_cuenta": "CTA002",
+    "fecha": "2025-01-13",
+    "tipo_transaccion": "Retiro",
+    "monto": 1800,
+    "canal": "Ventanilla"
+  },
+  {
+    "id_transaccion": "T018",
+    "id_cliente": "C003",
+    "id_cuenta": "CTA003",
+    "fecha": "2025-01-13",
+    "tipo_transaccion": "Transferencia",
+    "monto": 8200,
+    "canal": "Cajero"
+  },
+  {
+    "id_transaccion": "T019",
+    "id_cliente": "C001",
+    "id_cuenta": "CTA001",
+    "fecha": "2025-01-14",
+    "tipo_transaccion": "Depósito",
+    "monto": 5500,
+    "canal": "App Móvil"
+  },
+  {
+    "id_transaccion": "T020",
+    "id_cliente": "C004",
+    "id_cuenta": "CTA004",
+    "fecha": "2025-01-14",
+    "tipo_transaccion": "Retiro",
+    "monto": 3200,
+    "canal": "Web"
+  },
+  {
+    "id_transaccion": "T021",
+    "id_cliente": "C005",
+    "id_cuenta": "CTA005",
+    "fecha": "2025-01-15",
+    "tipo_transaccion": "Transferencia",
+    "monto": 4200,
+    "canal": "Ventanilla"
+  },
+  {
+    "id_transaccion": "T022",
+    "id_cliente": "C002",
+    "id_cuenta": "CTA002",
+    "fecha": "2025-01-15",
+    "tipo_transaccion": "Depósito",
+    "monto": 6800,
+    "canal": "Cajero"
+  },
+  {
+    "id_transaccion": "T023",
+    "id_cliente": "C003",
+    "id_cuenta": "CTA003",
+    "fecha": "2025-01-16",
+    "tipo_transaccion": "Retiro",
+    "monto": 2900,
+    "canal": "App Móvil"
+  },
+  {
+    "id_transaccion": "T024",
+    "id_cliente": "C001",
+    "id_cuenta": "CTA001",
+    "fecha": "2025-01-16",
+    "tipo_transaccion": "Transferencia",
+    "monto": 7200,
+    "canal": "Cajero"
+  },
+  {
+    "id_transaccion": "T025",
+    "id_cliente": "C004",
+    "id_cuenta": "CTA004",
+    "fecha": "2025-01-17",
+    "tipo_transaccion": "Depósito",
+    "monto": 5100,
+    "canal": "Ventanilla"
+  },
+  {
+    "id_transaccion": "T026",
+    "id_cliente": "C007",
+    "id_cuenta": "CTA007",
+    "fecha": "2025-01-18",
+    "tipo_transaccion": "Retiro",
+    "monto": 4000,
+    "canal": "Cajero"
+  },
+  {
+    "id_transaccion": "T027",
+    "id_cliente": "C008",
+    "id_cuenta": "CTA008",
+    "fecha": "2025-01-18",
+    "tipo_transaccion": "Depósito",
+    "monto": 1500,
+    "canal": "Cajero"
+  },
+  {
+    "id_transaccion": "T028",
+    "id_cliente": "C009",
+    "id_cuenta": "CTA009",
+    "fecha": "2025-01-19",
+    "tipo_transaccion": "Transferencia",
+    "monto": 10000,
+    "canal": "Web"
+  },
+  {
+    "id_transaccion": "T029",
+    "id_cliente": "C010",
+    "id_cuenta": "CTA010",
+    "fecha": "2025-01-19",
+    "tipo_transaccion": "Depósito",
+    "monto": 1200,
+    "canal": "App Móvil"
+  },
+  {
+    "id_transaccion": "T030",
+    "id_cliente": "C006",
+    "id_cuenta": "CTA006",
+    "fecha": "2025-01-19",
+    "tipo_transaccion": "Retiro",
+    "monto": 200,
+    "canal": "App Móvil"
+  }
+]
